@@ -1,7 +1,8 @@
 # anp-workflow
-Projeto voltado para consumo de dados públicos (Open Data) do GOV.BR visando criar uma extração facilitada dos dados na página de dados abertos da org
+Dados públicos (Open Data) do GOV.BR - Agência Nacional de Petróleo, Gás Natural e Biocombustíveis.
 
 ## Objetivo do Projeto
+
 *Trazer uma solução não manual para criação de uma rotina de atualização dos dados da ANP (Agência Nacional do Petróleo, Gás Natural e Biocombustíveis)*. Atualmente o projeto possui 2 soluções de downloads possíveis, carga e unificação dos dados consolidados das últimas 4 semanas e carga e unificação dos dados históricos de Combustíveis Automotivos.
 
 #### **download_dados_4_semanas**
