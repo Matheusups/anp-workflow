@@ -10,6 +10,7 @@ Dados públicos (Open Data) do GOV.BR - Agência Nacional de Petróleo, Gás Nat
 - Transforma o resultado da requisição em um dataframe
 - Executa a unificação dos arquivos em um só e consolida como um .csv legível no diretório **./dados/**
 <img width="538" alt="image" src="https://github.com/Matheusups/anp-workflow/assets/69797535/f8084826-2b94-43de-8acf-af833c835df2">
+
 - Output: **./dados/dados_consolidados_combustivel.csv**
 
 ## **download_historico_combustivel**
