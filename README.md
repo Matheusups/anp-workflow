@@ -22,6 +22,9 @@ Dados públicos (Open Data) do GOV.BR - Agência Nacional de Petróleo, Gás Nat
 
 
 ## Requirements
+
+A forma de utilização é simples, necessário ter python >3.9 instalado e as dependências abaixo. Após isso é só clonar o repositório localmente e executar os scripts conforme necessidade.
+
 ##### requests
 ```
 pip install requests
